@@ -1,4 +1,4 @@
-## Hi, I’m Will Evans
+## Hi, I’m William Evans
 
 I study Industrial & Systems Engineering at the University of Florida in the 4+1 BS/MS program. My work focuses on technology, AI, automation, optimization, and project management. I like taking complex tasks, breaking them into clear steps, and building systems that run cleanly end to end.
 
