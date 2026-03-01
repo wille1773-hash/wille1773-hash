@@ -1,44 +1,62 @@
-## Hi, I’m William Evans
+# William Evans
 
-I study Industrial & Systems Engineering at the University of Florida in the 4+1 BS/MS program. My work focuses on technology, AI, automation, optimization, and project management. I like taking complex tasks, breaking them into clear steps, and building systems that run cleanly end to end.
+Industrial & Systems Engineering student at the University of Florida (4+1 BS/MS).  
+I design and build technical systems that improve workflow reliability, reduce manual effort, and scale cleanly.
 
-## What I Work On
+---
 
-I build tools that improve accuracy, save time, and support real workflows.
+## Tech Stack
 
-- AI-driven medical license management system that replaced a failed 80k project and processed thousands of licenses  
-- GPT-based workflow tools for an AI startup  
-- Python projects with attention to structure, testing, and readable logic  
-- Automations that connect data, APIs, and LLMs into organized workflows
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![APIs](https://img.shields.io/badge/API%20Integration-000000?style=flat)
+![Automation](https://img.shields.io/badge/Automation-444444?style=flat)
+![LLM](https://img.shields.io/badge/LLM%20APIs-5A5A5A?style=flat)
 
-Along with programming, I take on planning and coordination work. I enjoy mapping tasks, dividing responsibilities, and integrating final builds so everything works the way it should.
+---
+
+## Focus Areas
+
+- Workflow automation and systems integration  
+- Backend logic design and structured data flows  
+- API-driven tooling and LLM-based processing  
+- Process validation and reliability systems  
+- Modular Python application development  
+
+---
+
+## Selected Work
+
+### Medical License Management System
+Rebuilt a medical license management system after a failed $80k implementation. Designed structured data flows to replace ad hoc processes, implemented a relational database backend for record integrity, and built a web interface to support daily operational workflows. The system supports validation and processing across thousands of records.
+
+### LLM Video / Audio Automation Pipeline
+Built a 1,000+ line Python automation pipeline integrating LLM APIs for media processing. Designed structured workflow logic, API orchestration, and a custom UI layer to manage input/output operations. Focused on end-to-end reliability and reducing manual content handling.
+
+### Operational AI Workflow Tools
+Developed GPT-based internal tools to automate recurring operational tasks. Implemented structured prompting systems, API integration, and iterative testing to improve output consistency and workflow fit.
+
+---
 
 ## Featured Repository
 
-### Python Class Projects  
-A curated bundle of my COP3502C programming assignments and small projects.
+### Python Class Projects
 
-Highlights:
-- **0_final_project_sudoku** – Pygame Sudoku with board/cell models and puzzle generator. I led a small team by organizing UI, logic, and generator tasks, then integrating and testing the final build.
-- **blackjack_p1**, **blackjack_casino** – Blackjack simulations with PRNG, multi-deck shoe, dealer logic, and win/loss stats.
-- **rle_image_encoder** – Run-length encoding CLI with hex/RLE conversions and a console-based image viewer.
-- **pakudex_cli** – Menu-driven creature tracker with sorting, evolving, and listing features.
-- **calc_utils** – Calculator functions with pytest coverage.
-- **whack_a_mole** – Pygame-based whack-a-mole grid game.
-- **cow_talk** – Cowsay-style ASCII animals.
-- **extra_credit_tickets** – Ticket pricing flow with validation.
+A structured collection of foundational programming projects emphasizing clean logic, modular design, and testing.
 
-Repo link:  
-https://github.com/wille1773-hash/Python-class-projects.git
+- `0_final_project_sudoku` — Pygame-based Sudoku with board/cell models and puzzle generation logic.
+- `blackjack_p1`, `blackjack_casino` — Multi-deck blackjack simulations with PRNG and statistical tracking.
+- `rle_image_encoder` — CLI-based run-length encoding tool with hex/RLE conversion.
+- `pakudex_cli` — Menu-driven state management and sorting system.
+- `calc_utils` — Calculator module with pytest coverage.
+- `whack_a_mole` — Event-driven Pygame grid application.
 
-## Technical Skills
+Repository:  
+https://github.com/wille1773-hash/Python-class-projects
 
-- Python, SQL, basic HTML/CSS, APIs, Pygame  
-- LLM integration, automation workflows, prompt engineering  
-- Testing and debugging with pytest  
-- Project planning, task breakdown, and system documentation  
+---
 
-## Let’s Connect
+## Contact
 
 Website: https://william-evans-resume.base44.app  
 LinkedIn: https://www.linkedin.com/in/william-michael-evans  
