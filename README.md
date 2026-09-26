@@ -1,7 +1,7 @@
 # William Evans
 
-Industrial & Systems Engineering student at the University of Florida (4+1 BS/MS).  
-I design and build technical systems that improve workflow reliability, reduce manual effort, and scale cleanly.
+Industrial & Systems Engineering student at the University of Florida (Honors) with a minor in Computer Science.  
+I build software and AI tools that fix broken workflows.
 
 ---
 
@@ -9,56 +9,50 @@ I design and build technical systems that improve workflow reliability, reduce m
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![APIs](https://img.shields.io/badge/API%20Integration-000000?style=flat)
-![Automation](https://img.shields.io/badge/Automation-444444?style=flat)
-![LLM](https://img.shields.io/badge/LLM%20APIs-5A5A5A?style=flat)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-5A5A5A?style=flat)
+![API Integration](https://img.shields.io/badge/API%20Integration-000000?style=flat)
 
 ---
 
-## Focus Areas
+## Currently
 
-- Workflow automation and systems integration  
-- Backend logic design and structured data flows  
-- API-driven tooling and LLM-based processing  
-- Process validation and reliability systems  
-- Modular Python application development  
+- Expanding a provider licensing platform with new automated workflows
+- Building Accountable, an iOS app for keeping social media use in check
+- Co-leading Gator Garage, a UF club where engineers from different majors build real projects
 
 ---
 
 ## Selected Work
 
-### Medical License Management System
-Rebuilt a medical license management system after a failed $80k implementation. Designed structured data flows to replace ad hoc processes, implemented a relational database backend for record integrity, and built a web interface to support daily operational workflows. The system supports validation and processing across thousands of records.
+### Provider Licensing Platform
+Led a 3-person team to rebuild a licensing platform in 6 weeks after a vendor's failed 2-year, $100K effort. Built a 5,000+ field master data model, an AI-assisted pipeline that extracts provider data from uploaded documents, a secure provider portal, and a browser extension for state portal logins. Supports 1,500+ provider records across 50 states. *(Private client code)*
 
-### LLM Video / Audio Automation Pipeline
-Built a 1,000+ line Python automation pipeline integrating LLM APIs for media processing. Designed structured workflow logic, API orchestration, and a custom UI layer to manage input/output operations. Focused on end-to-end reliability and reducing manual content handling.
+**Stack:** Python, HTML/Jinja, JavaScript, SQL
 
-### Operational AI Workflow Tools
-Developed GPT-based internal tools to automate recurring operational tasks. Implemented structured prompting systems, API integration, and iterative testing to improve output consistency and workflow fit.
+### Accountable *(in progress)*
+iOS app that asks how long you plan to spend on social media and locks it when time runs out, with longer lockouts after each overrun.
+
+**Stack:** Swift, SwiftUI, Apple Screen Time API
 
 ---
 
 ## Featured Repository
 
-### Python Class Projects
+### [Python Class Projects](https://github.com/wille1773-hash/Python-class-projects)
 
-A structured collection of foundational programming projects emphasizing clean logic, modular design, and testing.
-
-- `0_final_project_sudoku` — Pygame-based Sudoku with board/cell models and puzzle generation logic.
-- `blackjack_p1`, `blackjack_casino` — Multi-deck blackjack simulations with PRNG and statistical tracking.
-- `rle_image_encoder` — CLI-based run-length encoding tool with hex/RLE conversion.
-- `pakudex_cli` — Menu-driven state management and sorting system.
-- `calc_utils` — Calculator module with pytest coverage.
-- `whack_a_mole` — Event-driven Pygame grid application.
-
-Repository:  
-https://github.com/wille1773-hash/Python-class-projects
+- `0_final_project_sudoku`: Pygame Sudoku with board/cell models and puzzle generation
+- `blackjack_p1`, `blackjack_casino`: multi-deck blackjack simulations with PRNG and statistical tracking
+- `rle_image_encoder`: CLI run-length encoding tool with hex/RLE conversion
+- `pakudex_cli`: menu-driven state management and sorting
+- `calc_utils`: calculator module with pytest coverage
+- `whack_a_mole`: event-driven Pygame grid app
 
 ---
 
 ## Contact
 
-Website: https://william-evans-resume.base44.app  
-LinkedIn: https://www.linkedin.com/in/william-michael-evans  
-Email: will1773@icloud.com
+[Portfolio](https://william-evans-resume.base44.app) · [LinkedIn](https://www.linkedin.com/in/william-michael-evans) · will1773@icloud.com
 
