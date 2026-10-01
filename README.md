@@ -8,18 +8,18 @@ I build software and AI tools that fix broken workflows.
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-5A5A5A?style=flat)
-![API Integration](https://img.shields.io/badge/API%20Integration-000000?style=flat)
 
 ---
 
 ## Currently
 
-- Expanding a provider licensing platform with new automated workflows
+- Researching LLM reliability on physics problems and superconductor literature with Dr. Haining Pan (UF Physics)
 - Building Accountable, an iOS app for keeping social media use in check
 - Co-leading Gator Garage, a UF club where engineers from different majors build real projects
 
@@ -28,9 +28,9 @@ I build software and AI tools that fix broken workflows.
 ## Selected Work
 
 ### Provider Licensing Platform
-Led a 3-person team to rebuild a licensing platform in 6 weeks after a vendor's failed 2-year, $100K effort. Built a 5,000+ field master data model, an AI-assisted pipeline that extracts provider data from uploaded documents, a secure provider portal, and a browser extension for state portal logins. Supports 1,500+ provider records across 50 states. *(Private client code)*
+Led a 3-person team to replace a vendor's failed 2-year, $100K build in 6 weeks. A 120K-line Flask and PostgreSQL platform with a 5,000+ field data model, an AI-assisted pipeline that extracts provider data from documents, a secure provider portal, and a browser extension for state portal logins. Supports 1,500+ provider records across 50 states. *(Private client code)*
 
-**Stack:** Python, HTML/Jinja, JavaScript, SQL
+**Stack:** Python, Flask, PostgreSQL, HTML/CSS, JavaScript
 
 ### Accountable *(in progress)*
 iOS app that asks how long you plan to spend on social media and locks it when time runs out, with longer lockouts after each overrun.
@@ -55,4 +55,3 @@ iOS app that asks how long you plan to spend on social media and locks it when t
 ## Contact
 
 [Portfolio](https://william-evans-resume.base44.app) · [LinkedIn](https://www.linkedin.com/in/william-michael-evans) · will1773@icloud.com
-
